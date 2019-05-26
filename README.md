@@ -1,2 +1,2 @@
-# Image-Restoration
-This image processing exercise consists an implemetation of deep learning algorithm for image restoration
+Exercise number 5 in the image processing course at the Hebrew University
+
